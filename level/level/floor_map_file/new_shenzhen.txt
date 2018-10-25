@@ -1,0 +1,5 @@
+prediction_label,true_floor
+0,-1 floor
+1,1 floor
+2,2 floor
+3,3 floor

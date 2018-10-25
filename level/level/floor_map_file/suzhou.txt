@@ -1,0 +1,4 @@
+prediction_label,true_floor
+0,suzhou 1 floor
+1,suzhou 2 floor
+2,suzhou 3 floor
